@@ -12,7 +12,7 @@ Interested to become a partner? Contact [hello@buildingblocs.sg](mailto:hello@bu
 		<img src="{{ site.baseurl }}/assets/img/partner/aisingapore.png" title="AIsingapore" />
 	</a>
 </section>
-BuildingBloCS is now part of [AI for Students](https://www.aisingapore.org/industryinnovation/ai4s/)! Learn and apply AI knowledge and skills by leveraging on [DataCamp](https://www.datacamp.com/).
+BuildingBloCS is now part of [AI for Students](https://learn.aisingapore.org/courses/ai-for-students/)! Learn and apply AI knowledge and skills by leveraging on [DataCamp](https://www.datacamp.com/).
 
 <section class="organisers">
 	<a href="https://classdo.com/en/">
